@@ -20,6 +20,6 @@ int main()
     printf("PI : %.4lf\n",pi);
     printf("Grade : %c\n",grade);
 
-
+    return 0;
     
 }
